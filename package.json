@@ -1,7 +1,7 @@
 {
   "name": "@oglify/open-game-license",
-  "version": "0.0.1",
-  "description": "A license helper for the OGL",
+  "version": "0.0.2",
+  "description": "A simple license helper for the Open Game License",
   "main": "index.js",
   "type": "module",
   "repository": {
