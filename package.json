@@ -11,14 +11,20 @@
     "url": "https://github.com/oglify/open-game-license.git"
   },
   "keywords": [
-    "ogl"
+    "ogl",
+    "oglify"
   ],
   "author": "brendansafr",
-  "license": "OGLv1.0a",
+  "license": "SEE LICENSE IN LICENSE.txt",
   "bugs": {
     "url": "https://github.com/oglify/open-game-license/issues"
   },
   "homepage": "https://github.com/oglify/open-game-license#readme",
+  "files": [
+    "LICENSE.txt",
+    "README.md",
+    "index.js"
+  ],
   "dependencies": {
     "args": "^5.0.1"
   }
