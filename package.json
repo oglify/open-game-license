@@ -1,0 +1,25 @@
+{
+  "name": "@oglify/open-game-license",
+  "version": "0.0.1",
+  "description": "A license helper for the OGL",
+  "main": "index.js",
+  "scripts": {
+    "test": "none yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oglify/open-game-license.git"
+  },
+  "keywords": [
+    "ogl"
+  ],
+  "author": "brendansafr",
+  "license": "OGLv1.0a",
+  "bugs": {
+    "url": "https://github.com/oglify/open-game-license/issues"
+  },
+  "homepage": "https://github.com/oglify/open-game-license#readme",
+  "dependencies": {
+    "args": "^5.0.1"
+  }
+}
